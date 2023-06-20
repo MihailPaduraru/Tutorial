@@ -1,0 +1,22 @@
+p {
+  font-size: 24ph;
+}
+h1 {
+  background-color: crimson;
+}
+header {
+  position: absolute;
+  width: 155px;
+  height: 680px;
+  left: 0px;
+  top: 0px;
+
+  background: #ffffff;
+}
+main {
+  position: absolute;
+  width: 1125px;
+  height: 680px;
+  left: 1125px;
+  top: 0px;
+}
